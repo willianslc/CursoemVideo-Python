@@ -1,5 +1,4 @@
 #TIPOS PRIMITIVOS
-
 """
 O int ali é um dos 4 tipos primitivos,
 converte o número de string(texto) para número
@@ -15,13 +14,18 @@ INT - 7, -4, 0, 9875 -> Seja o número negativo ou positivo se não tem ponto/v�
 FLOAT - 4.5, 0.0075, -15.223, 7.0 -> Todos que tiver o ponto ou vírgula são float(n° real)
 BOOL - True/False -> Esse é para situações logicas, sim ou não, verdadeiro ou falso
 STR - "Olá", "O resultado da soma..." -> Esse representa tudo o que for String(texto)
+
+OBS: Juntar uma string na outra se chama concatenar
 """
 
 num1 = int(input("Digite um número: "))
 num2 = int(input("Digite outro número: "))
 soma = num1 + num2
 
-print("O resultado da soma dos numeros é {}".format(soma))
+#print("A soma entre ", num1, "e", num2, "vale", soma) -> Essa é uma forma de sintaxe antiga
+
+print("A soma entre {} e {} vale {}".format(num1, num2, soma))
+
 
 
 
