@@ -22,10 +22,17 @@ print("{} x 8 = {}".format(numero, resultado8))
 print("{} x 9 = {}".format(numero, resultado9))
 print("{} x 10 = {}".format(numero, resultado10))
 
+#ok, meu código ficou rídiculo de grande kkkkk...
+
 """
 OUTRA FORMA DE FAZER QUE A IA ME MOSTROU, CÓDIGO MAIS ENXUTO
 numero = int(input("Digite um numero para exibir a sua tabuada: "))
 
+print("-"*12)
+print("{} x 1 = {}".format(numero, resultado1))")
 print("{} x 1 = {}".format(numero, numero * 1))
 print("{} x 2 = {}".format(numero, numero * 2))
+print("-"*12)
+
+O professor fez da mesma forma da IA
 """
