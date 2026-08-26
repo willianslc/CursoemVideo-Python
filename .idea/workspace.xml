@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3eead06-8cc8-4078-9eee-162586c1d8b5" name="Alterações" comment="Entendendo Modulos/Bibliotecas">
-      <change afterPath="$PROJECT_DIR$/modulos/anotações-aula.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/aula01b.py" afterDir="false" />
+    <list default="true" id="b3eead06-8cc8-4078-9eee-162586c1d8b5" name="Alterações" comment="Organizando as coisas e fazendo anotações das aulas.">
+      <change afterPath="$PROJECT_DIR$/modulos/ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/ex003.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulos/aula01.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/aula01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,61 +43,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.5364646849837218" />
-      <entry key="MS500" value="2.554379342738233" />
-      <entry key="S2" value="3.7907273882729284" />
-      <entry key="S5" value="5.5484658838033685" />
-      <entry key="S10" value="6.955040904566888" />
-      <entry key="S30" value="9.26949208130488" />
-      <entry key="S60" value="13.493225941499276" />
-      <entry key="M2" value="24.284845046842847" />
-      <entry key="M5" value="44.53740997830884" />
-      <entry key="M10" value="61.65477345218216" />
-      <entry key="M15" value="79.23555454444212" />
-      <entry key="M30" value="141.2220741707982" />
-      <entry key="H1" value="257.9666732801921" />
-      <entry key="H2" value="460.89691770604844" />
-      <entry key="H4" value="745.4469695123727" />
-      <entry key="D1" value="1295.96992262539" />
-      <entry key="W1" value="1447.4134377555067" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000000064" />
+      <entry key="S5" value="1.0000060933403228" />
+      <entry key="S10" value="1.0077798686525112" />
+      <entry key="S30" value="2.1306649451073514" />
+      <entry key="S60" value="5.368065464390911" />
+      <entry key="M2" value="10.264912443249887" />
+      <entry key="M5" value="19.825309388745268" />
+      <entry key="M10" value="39.738025548776626" />
+      <entry key="M15" value="61.16905203671252" />
+      <entry key="M30" value="126.82664656645188" />
+      <entry key="H1" value="248.93229471630625" />
+      <entry key="H2" value="459.7857117686604" />
+      <entry key="H4" value="757.9697867655235" />
+      <entry key="D1" value="1350.5670568184523" />
+      <entry key="W1" value="1516.630210030437" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="9.191935269935493E-220" />
-      <entry key="S2" value="2.0841042789751528E-55" />
-      <entry key="S5" value="1.916217771633215E-22" />
-      <entry key="S10" value="2.100658610468293E-11" />
-      <entry key="S30" value="6.152699923685274E-4" />
-      <entry key="S60" value="0.048665516447836815" />
-      <entry key="M2" value="0.4427295512602194" />
-      <entry key="M5" value="1.8753717058136155" />
-      <entry key="M10" value="3.9133750567294805" />
-      <entry key="M15" value="5.922434014100621" />
-      <entry key="M30" value="11.676782347300799" />
-      <entry key="H1" value="20.354566343024988" />
-      <entry key="H2" value="32.03511022005208" />
-      <entry key="H4" value="45.69044207767022" />
-      <entry key="D1" value="69.52775651745691" />
-      <entry key="W1" value="75.8534686889883" />
+      <entry key="MS500" value="1.0945906219378256E-78" />
+      <entry key="S2" value="3.234543012748994E-20" />
+      <entry key="S5" value="1.5992824530503968E-8" />
+      <entry key="S10" value="1.2646273969238515E-4" />
+      <entry key="S30" value="0.05019427611800623" />
+      <entry key="S60" value="0.2240428453075078" />
+      <entry key="M2" value="0.4765445530448367" />
+      <entry key="M5" value="1.0472245788252823" />
+      <entry key="M10" value="2.5998917091652958" />
+      <entry key="M15" value="4.460733802752385" />
+      <entry key="M30" value="10.236255499087374" />
+      <entry key="H1" value="19.748759452088812" />
+      <entry key="H2" value="32.783721913608375" />
+      <entry key="H4" value="47.93181354797401" />
+      <entry key="D1" value="74.5706975737881" />
+      <entry key="W1" value="81.70415651356873" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.4958888762165121" />
-      <entry key="MS500" value="2.539144415587981" />
-      <entry key="S2" value="3.784514880152609" />
-      <entry key="S5" value="5.544655319722671" />
-      <entry key="S10" value="6.952607254009603" />
-      <entry key="S30" value="9.268944611897444" />
-      <entry key="S60" value="13.539195000158845" />
-      <entry key="M2" value="24.71835719141954" />
-      <entry key="M5" value="46.398083979871" />
-      <entry key="M10" value="65.55127383943622" />
-      <entry key="M15" value="85.13843179181737" />
-      <entry key="M30" value="152.87569724874018" />
-      <entry key="H1" value="278.2997812477132" />
-      <entry key="H2" value="492.91503251417276" />
-      <entry key="H4" value="791.1253410418468" />
-      <entry key="D1" value="1365.4946329291574" />
-      <entry key="W1" value="1523.2664320672818" />
+      <entry key="MS100" value="0.7120250977985358" />
+      <entry key="MS500" value="0.9343273468831804" />
+      <entry key="S2" value="0.9831612772404056" />
+      <entry key="S5" value="0.9932362711715184" />
+      <entry key="S10" value="1.0044917001016986" />
+      <entry key="S30" value="2.1762308612029493" />
+      <entry key="S60" value="5.580799415093799" />
+      <entry key="M2" value="10.72525983973163" />
+      <entry key="M5" value="20.85734690800916" />
+      <entry key="M10" value="42.32323841803184" />
+      <entry key="M15" value="65.61407860587113" />
+      <entry key="M30" value="137.04391303216377" />
+      <entry key="H1" value="268.6615241519507" />
+      <entry key="H2" value="492.5528204017806" />
+      <entry key="H4" value="805.8893535453516" />
+      <entry key="D1" value="1425.13455998911" />
+      <entry key="W1" value="1598.3338660586166" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -161,7 +161,7 @@
       <recent name="C:\Users\willi\PycharmProjects\CursoemVideo-Python\primeiros-excercícios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex002c">
+  <component name="RunManager">
     <configuration name="ex002c" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" nameIsGenerated="true">
       <module name="CursoemVideo-Python" />
       <option name="ENV_FILES" value="" />
@@ -350,7 +350,8 @@
       <workItem from="1787092458091" duration="7148000" />
       <workItem from="1787181524045" duration="664000" />
       <workItem from="1787182334229" duration="3853000" />
-      <workItem from="1787270277245" duration="2511000" />
+      <workItem from="1787270277245" duration="3429000" />
+      <workItem from="1787700947168" duration="3140000" />
     </task>
     <task id="LOCAL-00001" summary="Criando os primeiros exercícios.">
       <option name="closed" value="true" />
@@ -408,7 +409,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787185204375</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Organizando as coisas e fazendo anotações das aulas.">
+      <option name="closed" value="true" />
+      <created>1787273078847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1787273078847</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,11 +450,12 @@
     <MESSAGE value="Novos excercícios/desafios" />
     <MESSAGE value="Corrigindo os exercícios feitos com professor e mais dois novos exercícios." />
     <MESSAGE value="Entendendo Modulos/Bibliotecas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Entendendo Modulos/Bibliotecas" />
+    <MESSAGE value="Organizando as coisas e fazendo anotações das aulas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizando as coisas e fazendo anotações das aulas." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex014.coverage" NAME="ex014 Coverage Results" MODIFIED="1787099377094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex001.coverage" NAME="Resultados de Cobertura de ex001" MODIFIED="1785886966910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1787701271423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulos" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$EX007.coverage" NAME="EX007 Coverage Results" MODIFIED="1787009095908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex013.coverage" NAME="ex013 Coverage Results" MODIFIED="1787098904231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1787094414889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -460,7 +470,7 @@
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex003a.coverage" NAME="ex003a Coverage Results" MODIFIED="1786680750257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1787093147449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1787095948949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex002.coverage" NAME="Resultados de Cobertura de ex002" MODIFIED="1786402908588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1787702360797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulos" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1787096878993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex009.coverage" NAME="ex009 Coverage Results" MODIFIED="1787095189242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

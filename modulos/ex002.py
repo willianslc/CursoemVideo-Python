@@ -1,0 +1,8 @@
+from math import sqrt
+
+cateto_oposto = int(input("Digite o cateto oposto: "))
+cateto_adjacente = int(input("Digite o cateto adjacente: "))
+
+hipotenusa = sqrt(cateto_oposto**2 + cateto_adjacente**2)
+
+print("O comprimento da hipotenusa desse triângulo retângulo é {:.2f}".format(hipotenusa))
