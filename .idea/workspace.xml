@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3eead06-8cc8-4078-9eee-162586c1d8b5" name="Alterações" comment="Organizando as coisas e fazendo anotações das aulas.">
-      <change afterPath="$PROJECT_DIR$/modulos/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/ex003.py" afterDir="false" />
+    <list default="true" id="b3eead06-8cc8-4078-9eee-162586c1d8b5" name="Alterações" comment="Mais exercícios...">
+      <change afterPath="$PROJECT_DIR$/modulos/ex004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulos/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/ex003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,61 +42,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000000064" />
-      <entry key="S5" value="1.0000060933403228" />
-      <entry key="S10" value="1.0077798686525112" />
-      <entry key="S30" value="2.1306649451073514" />
-      <entry key="S60" value="5.368065464390911" />
-      <entry key="M2" value="10.264912443249887" />
-      <entry key="M5" value="19.825309388745268" />
-      <entry key="M10" value="39.738025548776626" />
-      <entry key="M15" value="61.16905203671252" />
-      <entry key="M30" value="126.82664656645188" />
-      <entry key="H1" value="248.93229471630625" />
-      <entry key="H2" value="459.7857117686604" />
-      <entry key="H4" value="757.9697867655235" />
-      <entry key="D1" value="1350.5670568184523" />
-      <entry key="W1" value="1516.630210030437" />
+      <entry key="MS100" value="1.0000003493029541" />
+      <entry key="MS500" value="1.0630097644476688" />
+      <entry key="S2" value="1.8058870263472286" />
+      <entry key="S5" value="2.4321162751683625" />
+      <entry key="S10" value="2.972150554436086" />
+      <entry key="S30" value="4.44422872226625" />
+      <entry key="S60" value="6.838343567430488" />
+      <entry key="M2" value="10.334221126431475" />
+      <entry key="M5" value="16.099256647081262" />
+      <entry key="M10" value="26.706580347664683" />
+      <entry key="M15" value="39.276508490173306" />
+      <entry key="M30" value="71.11660893286674" />
+      <entry key="H1" value="106.5350907927504" />
+      <entry key="H2" value="165.78757035411914" />
+      <entry key="H4" value="355.64539352360055" />
+      <entry key="D1" value="1251.7992999901826" />
+      <entry key="W1" value="1636.2451515286316" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.0945906219378256E-78" />
-      <entry key="S2" value="3.234543012748994E-20" />
-      <entry key="S5" value="1.5992824530503968E-8" />
-      <entry key="S10" value="1.2646273969238515E-4" />
-      <entry key="S30" value="0.05019427611800623" />
-      <entry key="S60" value="0.2240428453075078" />
-      <entry key="M2" value="0.4765445530448367" />
-      <entry key="M5" value="1.0472245788252823" />
-      <entry key="M10" value="2.5998917091652958" />
-      <entry key="M15" value="4.460733802752385" />
-      <entry key="M30" value="10.236255499087374" />
-      <entry key="H1" value="19.748759452088812" />
-      <entry key="H2" value="32.783721913608375" />
-      <entry key="H4" value="47.93181354797401" />
-      <entry key="D1" value="74.5706975737881" />
-      <entry key="W1" value="81.70415651356873" />
+      <entry key="MS100" value="3.787829483327563E-120" />
+      <entry key="MS500" value="1.3052030621762277E-24" />
+      <entry key="S2" value="1.0688567913067048E-6" />
+      <entry key="S5" value="0.004088535945411289" />
+      <entry key="S10" value="0.06395224988478256" />
+      <entry key="S30" value="0.4218385951364148" />
+      <entry key="S60" value="0.7805491101656729" />
+      <entry key="M2" value="1.1804636220402902" />
+      <entry key="M5" value="1.727795961381959" />
+      <entry key="M10" value="3.107430305191902" />
+      <entry key="M15" value="4.840042086523137" />
+      <entry key="M30" value="8.975496599139472" />
+      <entry key="H1" value="13.198569348271828" />
+      <entry key="H2" value="18.560679320572852" />
+      <entry key="H4" value="31.089992518997093" />
+      <entry key="D1" value="79.7670061804282" />
+      <entry key="W1" value="99.17802459414202" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7120250977985358" />
-      <entry key="MS500" value="0.9343273468831804" />
-      <entry key="S2" value="0.9831612772404056" />
-      <entry key="S5" value="0.9932362711715184" />
-      <entry key="S10" value="1.0044917001016986" />
-      <entry key="S30" value="2.1762308612029493" />
-      <entry key="S60" value="5.580799415093799" />
-      <entry key="M2" value="10.72525983973163" />
-      <entry key="M5" value="20.85734690800916" />
-      <entry key="M10" value="42.32323841803184" />
-      <entry key="M15" value="65.61407860587113" />
-      <entry key="M30" value="137.04391303216377" />
-      <entry key="H1" value="268.6615241519507" />
-      <entry key="H2" value="492.5528204017806" />
-      <entry key="H4" value="805.8893535453516" />
-      <entry key="D1" value="1425.13455998911" />
-      <entry key="W1" value="1598.3338660586166" />
+      <entry key="MS100" value="0.8293198375103858" />
+      <entry key="MS500" value="1.0240092410730022" />
+      <entry key="S2" value="1.7891081086071279" />
+      <entry key="S5" value="2.4253794026395346" />
+      <entry key="S10" value="3.0216809066390584" />
+      <entry key="S30" value="4.842478512287669" />
+      <entry key="S60" value="7.5922050787921975" />
+      <entry key="M2" value="11.491178875964193" />
+      <entry key="M5" value="17.805930550908773" />
+      <entry key="M10" value="29.785273587534643" />
+      <entry key="M15" value="44.08471366499236" />
+      <entry key="M30" value="80.06259310793685" />
+      <entry key="H1" value="119.71235825184914" />
+      <entry key="H2" value="184.33408188375944" />
+      <entry key="H4" value="386.7248577830914" />
+      <entry key="D1" value="1331.5624259431938" />
+      <entry key="W1" value="1735.4225015737322" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -115,47 +114,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.EX007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex0002c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exe004.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.EX007.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.aula01.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex0002c.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex002b.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex003a.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.exe004.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\willi\PycharmProjects\CursoemVideo-Python\primeiros-excercícios" />
@@ -351,7 +352,8 @@
       <workItem from="1787181524045" duration="664000" />
       <workItem from="1787182334229" duration="3853000" />
       <workItem from="1787270277245" duration="3429000" />
-      <workItem from="1787700947168" duration="3140000" />
+      <workItem from="1787700947168" duration="3173000" />
+      <workItem from="1787872847858" duration="4760000" />
     </task>
     <task id="LOCAL-00001" summary="Criando os primeiros exercícios.">
       <option name="closed" value="true" />
@@ -417,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787273078847</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Mais exercícios...">
+      <option name="closed" value="true" />
+      <created>1787724591865</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1787724591865</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,15 +461,18 @@
     <MESSAGE value="Corrigindo os exercícios feitos com professor e mais dois novos exercícios." />
     <MESSAGE value="Entendendo Modulos/Bibliotecas" />
     <MESSAGE value="Organizando as coisas e fazendo anotações das aulas." />
-    <option name="LAST_COMMIT_MESSAGE" value="Organizando as coisas e fazendo anotações das aulas." />
+    <MESSAGE value="Mais exercícios..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mais exercícios..." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1787877587234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulos" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex014.coverage" NAME="ex014 Coverage Results" MODIFIED="1787099377094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1787701271423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulos" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$EX007.coverage" NAME="EX007 Coverage Results" MODIFIED="1787009095908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex013.coverage" NAME="ex013 Coverage Results" MODIFIED="1787098904231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1787094414889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex000.coverage" NAME="Resultados de Cobertura de ex000" MODIFIED="1785886466508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1787874239795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulos" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$exe004.coverage" NAME="exe004 Coverage Results" MODIFIED="1786683446238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1787184648513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/emoji" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex0002c.coverage" NAME="Resultados de Cobertura de ex0002c" MODIFIED="1786406217010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
