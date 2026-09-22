@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3eead06-8cc8-4078-9eee-162586c1d8b5" name="Alterações" comment="Corrigindo os exercícios com as video aulas do professor.">
+    <list default="true" id="b3eead06-8cc8-4078-9eee-162586c1d8b5" name="Alterações" comment="Organizando os arquivos...">
+      <change afterPath="$PROJECT_DIR$/exercícios2/ex021.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,61 +41,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000627289421364" />
-      <entry key="MS500" value="1.270561114804204" />
-      <entry key="S2" value="3.7964170417212806" />
-      <entry key="S5" value="7.4075002284317994" />
-      <entry key="S10" value="10.525341622448162" />
-      <entry key="S30" value="14.291968217727877" />
-      <entry key="S60" value="16.58384368168082" />
-      <entry key="M2" value="21.41468857723857" />
-      <entry key="M5" value="31.250412411282415" />
-      <entry key="M10" value="40.278710817053565" />
-      <entry key="M15" value="47.309700699090804" />
-      <entry key="M30" value="67.53906722113189" />
-      <entry key="H1" value="110.5668927965237" />
-      <entry key="H2" value="191.01019084644844" />
-      <entry key="H4" value="372.10213213999305" />
-      <entry key="D1" value="1342.2426402954331" />
-      <entry key="W1" value="1818.6110003668414" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.630935103665312E-70" />
+      <entry key="S2" value="5.212091055507501E-18" />
+      <entry key="S5" value="1.6742043443201471E-7" />
+      <entry key="S10" value="5.847762765410256E-4" />
+      <entry key="S30" value="0.15719960492276863" />
+      <entry key="S60" value="0.6763383175248363" />
+      <entry key="M2" value="1.5131544567050021" />
+      <entry key="M5" value="4.217536274444949" />
+      <entry key="M10" value="10.331563996773404" />
+      <entry key="M15" value="17.61594910111116" />
+      <entry key="M30" value="42.97701655898759" />
+      <entry key="H1" value="93.97712164440827" />
+      <entry key="H2" value="184.26106873571618" />
+      <entry key="H4" value="368.26172368873756" />
+      <entry key="D1" value="1371.128360456532" />
+      <entry key="W1" value="1887.047025893456" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.0776584237851037E-237" />
-      <entry key="S2" value="6.751395303752857E-60" />
-      <entry key="S5" value="2.146631089455605E-24" />
-      <entry key="S10" value="1.4651385905284192E-12" />
-      <entry key="S30" value="1.1357765624993555E-4" />
-      <entry key="S60" value="0.010657281841536123" />
-      <entry key="M2" value="0.10323411261199605" />
-      <entry key="M5" value="0.40382037667342524" />
-      <entry key="M10" value="0.6968940969711334" />
-      <entry key="M15" value="1.0516942134681864" />
-      <entry key="M30" value="2.869527042450638" />
-      <entry key="H1" value="8.087157126786924" />
-      <entry key="H2" value="17.85357026204259" />
-      <entry key="H4" value="33.98423578571385" />
-      <entry key="D1" value="93.79721414415003" />
-      <entry key="W1" value="119.75488366624178" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000000027" />
+      <entry key="S5" value="1.0000014927458618" />
+      <entry key="S10" value="1.001221779792702" />
+      <entry key="S30" value="1.1069049379459452" />
+      <entry key="S60" value="1.3272254165205644" />
+      <entry key="M2" value="1.6015696431695292" />
+      <entry key="M5" value="2.4338839617105283" />
+      <entry key="M10" value="4.377987802068635" />
+      <entry key="M15" value="6.558695236542343" />
+      <entry key="M30" value="12.217238882848582" />
+      <entry key="H1" value="20.399051451693026" />
+      <entry key="H2" value="32.47716950717666" />
+      <entry key="H4" value="50.65324779174691" />
+      <entry key="D1" value="116.00216160573484" />
+      <entry key="W1" value="145.07176612000168" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9593250994689178" />
-      <entry key="MS500" value="1.2605078257154945" />
-      <entry key="S2" value="3.78987417132225" />
-      <entry key="S5" value="7.402728152469592" />
-      <entry key="S10" value="10.52202842889232" />
-      <entry key="S30" value="14.29058939575551" />
-      <entry key="S60" value="16.59316950144152" />
-      <entry key="M2" value="21.515072747645924" />
-      <entry key="M5" value="31.65026559258697" />
-      <entry key="M10" value="40.97190699151141" />
-      <entry key="M15" value="48.357327672958476" />
-      <entry key="M30" value="70.40250544610973" />
-      <entry key="H1" value="118.6448606430586" />
-      <entry key="H2" value="208.8531530113768" />
-      <entry key="H4" value="406.0763122645443" />
-      <entry key="D1" value="1436.0354612846966" />
-      <entry key="W1" value="1938.3650920420318" />
+      <entry key="MS100" value="0.004613252583709101" />
+      <entry key="MS500" value="0.34103695871983863" />
+      <entry key="S2" value="0.7641882603825852" />
+      <entry key="S5" value="0.8980093751877188" />
+      <entry key="S10" value="0.9493714356473946" />
+      <entry key="S30" value="1.2440077155112828" />
+      <entry key="S60" value="1.990566297412553" />
+      <entry key="M2" value="3.105405040408986" />
+      <entry key="M5" value="6.63700507227528" />
+      <entry key="M10" value="14.688268241667416" />
+      <entry key="M15" value="24.151258965502898" />
+      <entry key="M30" value="55.17159433952092" />
+      <entry key="H1" value="114.3566628649162" />
+      <entry key="H2" value="216.72176926883526" />
+      <entry key="H4" value="418.9015409114727" />
+      <entry key="D1" value="1487.1253118780312" />
+      <entry key="W1" value="2032.1178629884425" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -112,59 +113,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.EX007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex0002c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exe004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.EX007.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.aula01.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex0002c.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex002b.executor": "Run",
+    "Python.ex002c.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex003a.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.exe004.executor": "Run",
+    "Python.teste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\willi\PycharmProjects\CursoemVideo-Python\excercícios" />
       <recent name="C:\Users\willi\PycharmProjects\CursoemVideo-Python\modulos" />
       <recent name="C:\Users\willi\PycharmProjects\CursoemVideo-Python\primeiros-excercícios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex002c">
+  <component name="RunManager">
     <configuration name="ex002c" type="PythonConfigurationType" factoryName="Python" focusToolWindowBeforeRun="true" nameIsGenerated="true">
       <module name="CursoemVideo-Python" />
       <option name="ENV_FILES" value="" />
@@ -328,7 +331,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
       </set>
     </attachedChunks>
   </component>
@@ -453,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788999876348</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Organizando os arquivos...">
+      <option name="closed" value="true" />
+      <created>1789442331540</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1789442331540</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +501,8 @@
     <MESSAGE value="Mais exercícios..." />
     <MESSAGE value="Dando continuídade aos exercícios..." />
     <MESSAGE value="Corrigindo os exercícios com as video aulas do professor." />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo os exercícios com as video aulas do professor." />
+    <MESSAGE value="Organizando os arquivos..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizando os arquivos..." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CursoemVideo_Python$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1787877587234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulos" />
